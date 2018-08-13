@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{5D358E7C-897A-8FD2-DC1B-B8998C798BDE}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Rotate.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BlurController.cs">
     <Files>
-      <File FileName="Assets/Created Assets/Glassshader.shader" Line="93" Column="2" />
-      <File FileName="Assets/Rotate.cs" Line="7" Column="4" />
+      <File FileName="Assets/Created Assets/Glassshader.shader" Line="93" Column="5" />
+      <File FileName="Assets/Rotate.cs" Line="30" Column="54" />
+      <File FileName="Assets/BlurController.cs" Line="6" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
